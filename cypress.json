@@ -1,0 +1,10 @@
+{
+  "ignoreTestFiles": "*.js",
+  "testFiles": "**/*.{feature,features}",
+  "reporter": "cypress-mochawesome-reporter",
+  "baseUrl": "https://applifting-exercise.netlify.app/",
+  "projectId": "5bfm26",
+  "chromeWebSecurity": false,
+  "viewportHeight": 1080,
+  "viewportWidth": 1920 
+}
